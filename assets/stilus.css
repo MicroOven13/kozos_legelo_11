@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+    margin: auto;
+}
+a {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.tehenimg {
+    width: 2%;
+}
